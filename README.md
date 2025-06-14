@@ -70,12 +70,15 @@ The climate dataset includes the following dimensions:
 
 ## 🗂 File Structure
 
+## 🗂 File Structure
+
 ```bash
-📁 Climate-Change-Dashboard/
+📁 Climate-Change-Insights-Dashboard/
 │
-├── Climate Change Dashboard.twb      # Tableau workbook
-├── Climate Change project document.pdf  # Project design & calculations
-└── README.md                         # You’re here!
+├── .gitignore                     # Git ignore rules
+├── Climate Change Data.csv        # Climate dataset
+├── image.jpg                      # Visual asset (e.g., dashboard preview)
+├── README.md                      # Project documentation (this file)
 ```
 ## 📫 Contact
 
